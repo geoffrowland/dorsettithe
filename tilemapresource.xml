@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
     <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
-      <Title>T LAH Langton Herring.jpg tithe enhanced_modified.tif</Title>
+      <Title>t-lib_littlebredy_rend.tif</Title>
       <Abstract></Abstract>
       <SRS>EPSG:3857</SRS>
-      <BoundingBox minx="-2.56691449761881" miny="50.62100943770353" maxx="-2.52026475516692" maxy="50.65088856541329"/>
-      <Origin x="-2.56691449761881" y="50.62100943770353"/>
+      <BoundingBox minx="-2.61807213564446" miny="50.66847505908537" maxx="-2.53808507914117" maxy="50.71871776521102"/>
+      <Origin x="-2.61807213564446" y="50.66847505908537"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="mercator">
         <TileSet href="12" units-per-pixel="38.21851413574219" order="12"/>
